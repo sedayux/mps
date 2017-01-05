@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_admin"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Administrator" />
+        <item
+            android:id="@+id/nav_lacak"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Lacak" />
+        <item
+            android:id="@+id/nav_pos"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="POS" />
+        <item
+            android:id="@+id/nav_label"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Label" />
+        <item
+            android:id="@+id/nav_dp_tiga"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="DP3" />
+        <item
+            android:id="@+id/nav_dp"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="DP" />
+        <item
+            android:id="@+id/nav_pod"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="POD" />
+        <item
+            android:id="@+id/nav_laporan"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Laporan" />
+        <item
+            android:id="@+id/nav_keluar"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Keluar" />
+    </group>
+
+</menu>
